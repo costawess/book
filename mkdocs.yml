@@ -11,6 +11,7 @@ theme:
     - navigation.top
     - content.code.copy
     - content.tabs.link
+    - toc.follow # mantém o TOC visível ao rolar
   logo: assets/hanze_logo.png
   # favicon: assets/favicon.ico
 markdown_extensions:
